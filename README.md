@@ -36,5 +36,11 @@ A native news app made using Kotlin and News Api.
 
 ## VISUAL APPERANCE OF APP :
 
-![ScrenShot 1](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/intro.jpg "ScrenShot 1")
+![ScrenShot 1](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/app1.jpg "ScrenShot 1")
+
+![ScrenShot 2](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/app2.jpg "ScrenShot 2")
+
+## VIDEO : 
+
+![video](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/video.mp4 "Video")
 
