@@ -42,5 +42,4 @@ A native news app made using Kotlin and News Api.
 
 ## VIDEO : 
 
-[![video](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/intro.jpg)](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/Untitled.mp4 "Video")
-
+![video](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/Untitled%20(1).mp4)
