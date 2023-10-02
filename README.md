@@ -42,4 +42,4 @@ A native news app made using Kotlin and News Api.
 
 ## VIDEO : 
 
-https://github.com/sumitbehera1508/News_app/issues/1#issue-1920555448
+<iframe src="https://www.youtube.com/shorts/OOjRHvMSH7Y?feature=share"></iframe>
