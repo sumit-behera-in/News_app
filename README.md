@@ -2,7 +2,7 @@
 A native news app made using Kotlin and News Api.
 
 ## INTRO 
-![Intro](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/intro.jpg "Intro")
+![Intro](https://github.com/sumitbehera1508/News_app/blob/main/screen%20Shots/intro.JPG "Intro")
 
 ## OBJECTIVES 
 
